@@ -1,7 +1,4 @@
-<p align="center">                 
- <img src="https://files.catbox.moe/t92u61.png" height="85" width=600">
-<p align="center">                 
- <img src="https://files.catbox.moe/7ietri.png" height=440 width=600">
+
 <img src="30a3648b70c6f01993365fc345d813da.jpg">
 
 ![](https://komarev.com/ghpvc/?username=DUDENEXTDOOR&color=red&style=plastic&label=dudes) ![](https://hit.yhype.me/github/profile?account_id=168235619)
