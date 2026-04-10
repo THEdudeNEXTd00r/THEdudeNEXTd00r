@@ -1,4 +1,7 @@
-## Hi there 👋
+# wip
+
+![](https://komarev.com/ghpvc/?username=DUDENEXTDOOR&color=blue&style=plastic&label=dudes) ![](https://hit.yhype.me/github/profile?account_id=168235619)
+
 
 <!--
 **THEdudeNEXTd00r/THEdudeNEXTd00r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
