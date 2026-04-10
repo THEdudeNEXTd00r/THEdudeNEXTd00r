@@ -1,6 +1,5 @@
 <img src="30a3648b70c6f01993365fc345d813da.jpg">
-<p align=center>
-APOSTOLIC, ALCOHOLICS.
+<p align=center> ${\color{##f54281}\text{APOSTOLIC, ALCOHOLIC .}}$
 <p align="center">
 <img src="heartbeat2.gif" height="85" width="600"
   
