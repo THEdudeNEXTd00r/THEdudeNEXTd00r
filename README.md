@@ -1,7 +1,7 @@
 <p align="center">                 
  <img src="hearts5.png" height="85" width=600">
 <img src="30a3648b70c6f01993365fc345d813da.jpg">
-
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=DUDENEXTDOOR&color=red&style=plastic&label=dudes) ![](https://hit.yhype.me/github/profile?account_id=168235619)
 
 
