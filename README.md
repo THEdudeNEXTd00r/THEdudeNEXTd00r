@@ -1,8 +1,9 @@
 <img src="IMG_2633-1.png" height="600" width="600">
-<h2><p align=center>I have the thing, you love.</h2> art credit to my Lil sibling <3
+<h2><p align=center>I have the thing, 
   
 <p align="center">
 <img src="heartbeat2.gif" height="85" width="600"
+you love.</h2> art credit to my Lil sibling <3 
   
 ![](https://komarev.com/ghpvc/?username=DUDENEXTDOOR&color=red&style=plastic&label=dudes) ![](https://hit.yhype.me/github/profile?account_id=168235619)
 
