@@ -1,5 +1,5 @@
 <img src="IMG_2633-1.png" height="200" width="300">
-<h2><p align=center>STRAY BULLET</h2>
+<h2><p align=center>I have the thing, you love.</h2>
   
 <p align="center">
 <img src="heartbeat2.gif" height="85" width="600"
