@@ -3,7 +3,8 @@
 <p align="center">
 <img src="heartbeat2.gif" height="85" width="600"
 
-  
+
+art credit to my Lil sibling <3
 ![](https://komarev.com/ghpvc/?username=DUDENEXTDOOR&color=red&style=plastic&label=dudes) ![](https://hit.yhype.me/github/profile?account_id=168235619)
 
 
