@@ -1,6 +1,6 @@
 <img src="IMG_2633-1.png" height="600" width="600">
 <h2><p align=center>I have the thing, you love.</h2>
-<h3>art credit to my Lil sibling @UNCLINICAL <3 </h3>
+<h1>art credit to my Lil sibling<3</h1>
   
 <p align="center">
 <img src="heartbeat2.gif" height="85" width="600"
