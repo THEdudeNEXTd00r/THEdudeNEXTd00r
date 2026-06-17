@@ -1,4 +1,4 @@
-<img src="IMG_2633-1.png" height="200" width="300">
+<img src="IMG_2633-1.png" height="200" width="100">
 <h2><p align=center>I have the thing, you love.</h2>
   
 <p align="center">
