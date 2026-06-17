@@ -1,4 +1,4 @@
-<img src="30a3648b70c6f01993365fc345d813da.jpg">
+<img src="IMG_2633-1.png" height="200" width="300">
 <h2><p align=center>STRAY BULLET</h2>
   
 <p align="center">
