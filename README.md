@@ -5,7 +5,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=DUDENEXTDOOR&color=red&style=plastic&label=dudes) ![](https://hit.yhype.me/github/profile?account_id=168235619)
-<h5>(art by me)</h5>
+<h5>(art made by me)</h5>
 
 
 <!--
