@@ -1,8 +1,8 @@
 <img src="Untitled1024_20260716050316.png " height="600" width="600">
 <h2><p align=center>love me like you loved the sun.</h2>
-<h1>(art by me)</h1>
 <p align="center">
 <img src="heartbeat2.gif" height="85" width="600"
+<h5><p align="center>(art by me)</h5>
 
 
 ![](https://komarev.com/ghpvc/?username=DUDENEXTDOOR&color=red&style=plastic&label=dudes) ![](https://hit.yhype.me/github/profile?account_id=168235619)
